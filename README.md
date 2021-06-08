@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Chemical Industry and responsible for overseas sales & marketing in APAC region.
+- 🔭 I’m currently working on Chemical Industry. Responsible for overseas sales & marketing in APAC region.
 - 🌱 I’m currently learning Javascript, HTML/CSS, React, Node.js as a hobby.
 - 💬 Can speak Korean, English, Japanese and a little German!
 - 📫 How to reach me: dwkang921[at]gmail.com or you can just visit my linkedin and my blog as below:

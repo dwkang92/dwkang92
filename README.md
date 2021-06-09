@@ -5,6 +5,7 @@
 - 💬 Language: Korean(Native), English(Fluent), Japanese(Fluent), German (Intermediate)
 
 - 📫 How to reach me: dwkang921[at]gmail.com or you can just visit my linkedin and blog as below:
+    
      Linkedin: https://www.linkedin.com/in/dongwoo-kang-925802165/
      Blog: https://dwkang921-coding-challenge.tistory.com/
 

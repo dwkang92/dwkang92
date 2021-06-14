@@ -7,6 +7,6 @@
 - 📫 How to reach me: dwkang921[at]gmail.com or you can just visit my linkedin and blog as below:
     
      Linkedin: https://www.linkedin.com/in/dongwoo-kang-925802165/
-     Blog: https://dwkang921-coding-challenge.tistory.com/
+     Blog: https://everyday-life-explorer.tistory.com/
 
 - 😄 Pronouns: A journey of a thousand miles begins with a single step.

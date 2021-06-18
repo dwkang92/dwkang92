@@ -9,4 +9,4 @@
      Linkedin: https://www.linkedin.com/in/dongwoo-kang-925802165/
      Blog: https://everyday-life-explorer.tistory.com/
 
-- 😄 Proverb: A journey of a thousand miles begins with a single step.
+- 😌 A journey of a thousand miles begins with a single step.

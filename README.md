@@ -1,6 +1,6 @@
 - 🔭 Currently working on Pharma / Bio Industry. Responsible for APAC region as an overseas sales & marketer.
 
-- 🌱 Now i'm learning: Javascript, HTML/CSS, React, Node.js, SQL as a hobby.
+- 🌱 Now i'm learning: Javascript, Node.js, Oracle DB and MySQL
 
 - 💬 Language: Korean(Native), English(Fluent), Japanese(Fluent), German (Intermediate)
 

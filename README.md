@@ -1,4 +1,4 @@
-- 🔭 Currently working on Pharma / Bio Industry. Responsible for overseas sales & marketing strategy.
+- 🔭 Currently working on Pharma / Bioceutical Industry. Responsible for overseas sales & marketing strategy.
 
 - 🌱 Now i'm learning: Javascript, Node.js, Oracle DB and MySQL
 

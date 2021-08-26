@@ -1,6 +1,6 @@
 - 🔭 Currently working on Pharma / Bioceutical Industry. Responsible for overseas sales & marketing strategy.
 
-- 🌱 Now i'm learning: Javascript, Node.js, Oracle DB and MySQL 
+- 🌱 Now i'm learning: Javascript, Node.js, Oracle DB and MySQL, AWS Cloud Services
 
 - 💬 Language: Korean(Native), English(Fluent), Japanese(Fluent), German (Intermediate)
 

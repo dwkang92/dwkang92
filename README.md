@@ -1,10 +1,5 @@
 
 <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
-
-<a href="mailto:dwkang921@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dwkang921@gmail.com-EA4335?style=flat-square&logo=dwkang921@gmail.com&logoColor=white"></a>
-<a href="www.linkedin.com/in/dwkang921" target="_blank"><img src="https://img.shields.io/badge/Dongwoo Kang-0A66C2?style=flat-square&logo=Gmail&logoColor=white"></a>
-
-
 <img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>

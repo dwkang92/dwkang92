@@ -1,19 +1,14 @@
-- 🔭 I'm currently working at Asahi Kasei Corporation as an Overseas Sales & Marketing Strategy
 
-- 🌱 Now i'm learning: Javascript, Node.js, Oracle DB and MySQL, AWS Cloud Services
+<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
 
-- 💬 Language: Korean(Native), English(Fluent), Japanese(Fluent), German (Intermediate)
+<a href="mailto:dwkang921@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dwkang921@gmail.com-EA4335?style=flat-square&logo=dwkang921@gmail.com&logoColor=white"></a>
+<a href="www.linkedin.com/in/dwkang921" target="_blank"><img src="https://img.shields.io/badge/DongwooKang-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 
-- 📫 How to reach me: dwkang921[at]gmail.com or you can just visit my linkedin and blog as below:
-    
-     Linkedin: https://www.linkedin.com/in/dongwoo-kang-925802165/
-     Blog: https://everyday-life-explorer.tistory.com/
-
-- 😌 A journey of a thousand miles begins with a single step.
-
-https://img.shields.io/badge/-[기술이름]-[컬러코드]?style=flat&logo=[아이콘이름]
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
-<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
-<img src="https://img.shields.io/badge/dwkang921@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Amzon AWS-232F3E?style=flat&logo=Amazon AWS"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/>
+<img src="https://img.shields.io/badge/-Oracle-#80000?style=flat&logo=Oracle"/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5"/>
 
 

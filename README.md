@@ -13,3 +13,6 @@
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+
+

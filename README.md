@@ -1,4 +1,4 @@
-- 🔭 Currently working on Pharma / Bioceutical Industry. Responsible for overseas sales & marketing strategy.
+- 🔭 I'm currently working at Asahi Kasei Corporation as an Overseas Sales & Marketing Strategy
 
 - 🌱 Now i'm learning: Javascript, Node.js, Oracle DB and MySQL, AWS Cloud Services
 
@@ -10,3 +10,6 @@
      Blog: https://everyday-life-explorer.tistory.com/
 
 - 😌 A journey of a thousand miles begins with a single step.
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linkedin-#0A66C2?style=flat-square&logo=Android&logoColor=white"/>

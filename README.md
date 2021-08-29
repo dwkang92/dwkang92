@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=240&section=header&render&fontSize=50&fontColor=1E90FF&text=Das bin ich!)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=240&section=header&render&fontSize=50&fontColor=1E90FF&text=Hello!)
 <a href="mailto:dwkang921@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dwkang921@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/dwkang921/" target="_blank"><img src="https://img.shields.io/badge/DongwooKang-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
 👋  Hi there! I'm Dongwoo. Please call me Kyle.

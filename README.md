@@ -8,7 +8,9 @@
 
 💼 :  Responsible for overseas sales & marketing strategy in Pharmaceutical and Nuetraceutical Markets.
 
-🌱 :  I'm pursuing a dfferent career.
+🌱 :  Learn IT skills as a hobby.
+
+🙏🏻 :  I believe Technology can make the world a better place. 
 
 🗣 :  🇰🇷 (Native), 🇺🇸 🇯🇵 (Fluent), 🇩🇪 (Conversational)
 

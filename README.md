@@ -6,7 +6,7 @@
 
 ---
 
-💼 :  Responsible for overseas sales & marketing strategy in the Pharmaceutical and Nuetraceutical Markets.
+💼 :  Deloitte Consulting 
 
 🌱 :  Learn IT skills as a hobby.
 

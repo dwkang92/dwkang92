@@ -6,7 +6,7 @@
 
 ---
 
-💼 :  Deloitte Consulting 
+💼 :  Deloitte as a Cyber Security Consultant
 
 🌱 :  Learn IT skills as a hobby.
 

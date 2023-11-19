@@ -6,7 +6,7 @@
 
 ---
 
-💼 :  Deloitte as a Cyber Security Consultant
+💼 :  Deloitte as a Cyber Security Consultant (CISA)
 
 🌱 :  Learn IT skills as a hobby.
 

@@ -6,7 +6,7 @@
 
 ---
 
-💼 :  Deloitte as a Cyber Security Consultant (CISA)
+💼 :  Deloitte as a Cyber Security Consultant (Strategy)
 
 🌱 :  Learn IT skills as a hobby.
 
@@ -14,7 +14,7 @@
 
 🗣 :  🇰🇷 (Native), 🇺🇸 🇯🇵 (Fluent), 🇩🇪 (Conversational)
 
-💯 :  TOEFL iBT (113/120), TOEIC (980/990), JLPT N1 (170/180)
+💯 :  TOEFL iBT (113/120), TOEIC (890/990), JLPT N1 (170/180)
 
 📝 :  A journey of a thousand miles begins with a single step.
 

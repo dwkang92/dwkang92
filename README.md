@@ -14,7 +14,7 @@
 
 🗣 :  🇰🇷 (Native), 🇺🇸 🇯🇵 (Fluent), 🇩🇪 (Conversational)
 
-💯 :  TOEFL iBT (113/120), TOEIC (890/990), JLPT N1 (170/180)
+💯 :  TOEIC (890/990), JLPT N1 (170/180)
 
 📝 :  A journey of a thousand miles begins with a single step.
 

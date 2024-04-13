@@ -6,15 +6,13 @@
 
 ---
 
-💼 :  Deloitte as a Cyber Security Consultant (Strategy)
+💼 :  Ernst & Young as an IT Auditor & Cyber Security Consultant
 
 🌱 :  Learn IT skills as a hobby.
 
 🙏🏻 :  I believe Technology can make the world a better place.
 
 🗣 :  🇰🇷 (Native), 🇺🇸 🇯🇵 (Fluent), 🇩🇪 (Conversational)
-
-💯 :  TOEIC (890/990), JLPT N1 (170/180)
 
 📝 :  A journey of a thousand miles begins with a single step.
 
